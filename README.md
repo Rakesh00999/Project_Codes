@@ -1,10 +1,10 @@
 # WII Herbaium Plant Classification using Machine Learning
-As the name says this project is a machine learning supervised classification project, In this I have followed the following steps:
-1-> Data Acquisation
-2-> Data cleaning and preprocessing
-3-> Feature Exctraction
-4-> Model training and selecition
-5-> Evaluation/ Acurracy
+As the name says this project is a machine learning supervised classification project, In this I have followed the following steps:<br>
+1-> Data Acquisation<br>
+2-> Data cleaning and preprocessing<br>
+3-> Feature Exctraction<br>
+4-> Model training and selecition<br>
+5-> Evaluation/ Acurracy<br>
 ## Dataset and Goal of the project
 The Dataset here used is  Wildlife Institue of India Herbarium Dataset through GBIF network you can get it from [here](https://www.gbif.org/dataset/9e7ea106-0bf8-4087-bb61-dfe4f29e0f17/project). 
 The goal for now is to a make classification maodel.
@@ -18,4 +18,4 @@ As it is classification model so it comes under supervised machine learning . Th
 ## Evaluation and more results
 For evaluation of model metrics like accuracy, recall and F1 score are used. Further, Input-based classification was also perfomed and various other insights can also be drieved from the dataset by visualization.
 ## Future work
-There is scope of improvement in the model as i think it is overfitting because it is achieving around 100% accuracy in Random Forest based model. Furhter deployment of the modle can also be done. Since, Herbarium dataset holds scientific value more machine learning model like Occurence based classification can also be achieved. 
+There is scope of improvement in the model as i think it is overfitting because it is achieving around 100% accuracy in Random Forest based model. Furhter deployment of the model can also be done. Since, Herbarium dataset holds scientific value more machine learning model like Occurence based classification can also be achieved. 
